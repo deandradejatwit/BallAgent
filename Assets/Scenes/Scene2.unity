@@ -907,7 +907,7 @@ MonoBehaviour:
   moveSpeed: 2
   rotationSpeed: 2
   waypointChangeDistance: 0.1
-  waypointPrefab: {fileID: 7139295546298223350, guid: 8acbcdf1f31c67f4b9d79d41a27523c4, type: 3}
+  waypointPrefab: {fileID: 8926800635240693089, guid: b52762b3ecf980542be521f2a830320f, type: 3}
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 0
